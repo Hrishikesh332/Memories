@@ -54,7 +54,7 @@ st.title("Memories Game")
 
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
-    if st.button("Generate Memory Prompt", use_container_width=True):
+    if st.button("Generate", use_container_width=True):
         name, question = get_random_prompt()
         st.markdown(f"### {name}'s Memory of Anam")
         st.write(f"**Prompt:** *{question}*")
