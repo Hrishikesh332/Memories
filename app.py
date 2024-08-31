@@ -3,7 +3,7 @@ import random
 
 
 names = [
-        "Jayesh", "Kushal", "Wilfred", "Ishir", "Hamza", "Prathik", "Hrishikesh"
+        "Jayesh", "Kushal", "Wilfred", "Ishir", "Hamza", "Prathik", "Hrishikesh", "Yashika", "Rishabh"]
 ]
 
 page_element = """
